@@ -5,3 +5,6 @@
 - Analisando os dados
 - Treinamento dos algoritimos
 - Conclusão
+
+
+Testando alguns modelos de Machine Learning e comparando resultados.
